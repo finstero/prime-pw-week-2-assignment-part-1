@@ -79,6 +79,8 @@ else{
 console.log(mostPets);
 
 // 17 - Rewrite question 16 with a `switch` statement. You'll need to do research!
+// I'm very curious if there are other ways to write this switch statement, and if so,
+// what they are! I couldn't think of another way, but it seems like there should be.
 mostPets = 0;
 
 switch (pets < friendsPets) {
